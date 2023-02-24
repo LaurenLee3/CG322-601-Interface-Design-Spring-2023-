@@ -2,6 +2,7 @@ body{
     background-color: azure;
 }
 
+/* typography */
 h1{
     font-size: 40px;
     color:blueviolet;
@@ -14,4 +15,13 @@ p{
     color:darksalmon;
     line-height: 25px;
     font-family: 'Archivo Narrow', sans-serif;
+}
+
+.buttons-links {
+    border-style: solid;
+    border-color: crimson;
+    background-color: cornsilk;
+    border-width: 2px; 
+    text-decoration: none;
+    color:black
 }
