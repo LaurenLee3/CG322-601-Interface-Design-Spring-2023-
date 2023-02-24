@@ -4,16 +4,16 @@ body{
 
 /* typography */
 h1{
-    font-size: 40px;
+    font-size: 60px;
     color:blueviolet;
     font-style: italic;
     font-family: 'Lobster Two', cursive;
 }
 
 p{
-    font-size: 30px;
+    font-size: 16px;
     color:darksalmon;
-    line-height: 25px;
+    line-height: 30px;
     font-family: 'Archivo Narrow', sans-serif;
 }
 
@@ -23,5 +23,11 @@ p{
     background-color: cornsilk;
     border-width: 2px; 
     text-decoration: none;
-    color:black
+    color:black;
+    padding: 4px;
+    border-radius: 10px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin-top: 20px;
 }
