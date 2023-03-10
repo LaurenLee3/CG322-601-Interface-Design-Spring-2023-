@@ -1,5 +1,5 @@
 body{
-    background-color: dimgrey;
+    background-color: #3a3b3a;
     margin: 0px;
     padding: 0px;
 }
@@ -15,7 +15,7 @@ h1{
 p{
     font-size: 20px;
     color: aliceblue;
-    line-height: 40px;
+    line-height: 50px;
     font-family: 'Archivo Narrow', sans-serif;
 }
 
@@ -66,7 +66,7 @@ nav{
     text-align: center;
     padding-top: 110px;
     background-color: cornflowerblue;
-    background-image: url("https://i0.wp.com/www.artofvfx.com/LoveDeathRobots/LoveDeathRobots_TimMiller_ITW_08.jpg?ssl=1");
+    background-image: url("https://jmlinares.com/wp-content/uploads/2019/04/sui03.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -118,5 +118,26 @@ nav{
 footer{
     height: 40px;
     padding: 10px 0px;
-    background-color: darkcyan;
+    background-color: black;
 }
+
+/*Mobile styles*/
+
+@media only screen and (max-width: 600px) {
+  /*mobile styles go here*/
+  body{
+    background-color: black;
+}
+
+h1{
+    font-size: 40px;
+    color: aliceblue;
+    background-color: black;
+}
+
+h2{
+    color: aliceblue;
+
+}
+
+  }
