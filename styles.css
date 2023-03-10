@@ -6,14 +6,14 @@ body{
 
 /* typography */
 h1{
-    font-size: 80px;
+    font-size: 90px;
     color: aliceblue;
     font-style: italic;
     font-family: 'Archivo Narrow', sans-serif;
 }
 
 p{
-    font-size: 30px;
+    font-size: 20px;
     color: aliceblue;
     line-height: 40px;
     font-family: 'Archivo Narrow', sans-serif;
@@ -33,11 +33,11 @@ nav{
 
 .buttons-links {
     border-style: solid;
-    border-color: crimson;
-    background-color: cornsilk;
+    border-color: aliceblue;
+    background-color: black;
     border-width: 2px; 
     text-decoration: none;
-    color:black;
+    color: aliceblue;
     padding: 4px;
     border-radius: 10px;
     display: block;
@@ -48,11 +48,11 @@ nav{
 
 .button-alert {
     border-style: solid;
-    border-color: cadetblue;
-    background-color:cadetblue;
+    border-color: aliceblue;
+    background-color: black;
     border-width: 2px;
     text-decoration: none;
-    color:black;
+    color: aliceblue;
     padding: 4px;
     border-radius: 10px;
     display: block;
@@ -66,7 +66,7 @@ nav{
     text-align: center;
     padding-top: 110px;
     background-color: cornflowerblue;
-    background-image: url("https://www.awn.com/sites/default/files/styles/original/public/image/featured/1049095-blur-studio-taps-v-ray-netflixs-new-nsfw-love-death-robots-short-film-anthology.jpg?itok=99pGFkdW");
+    background-image: url("https://i0.wp.com/www.artofvfx.com/LoveDeathRobots/LoveDeathRobots_TimMiller_ITW_08.jpg?ssl=1");
     background-size: cover;
     background-attachment: fixed;
 }
